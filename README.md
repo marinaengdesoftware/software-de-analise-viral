@@ -9,6 +9,11 @@ produção experimental de conteúdo a partir dos padrões identificados.
 
 Essas camadas não estão incluídas neste repositório.
 
+Camadas adicionais do projeto utilizam ferramentas de IA generativa e
+sistemas de automação visual para experimentos de reconstrução narrativa
+a partir dos padrões extraídos.
+
+
 # Sistema de Análise de Conteúdo Viral
 
 O sistema busca analisar estruturas de dados invisíveis presentes em conteúdos virais, identificando padrões narrativos, visuais e emocionais que funcionam como estímulos capazes de gerar alta retenção, engajamento e desempenho em plataformas digitais.
