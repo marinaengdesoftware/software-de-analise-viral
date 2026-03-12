@@ -1,5 +1,7 @@
 # Sistema de Análise de Conteúdo Viral
 
+O sistema busca analisar estruturas de dados invisíveis presentes em conteúdos virais, identificando padrões narrativos, visuais e emocionais que funcionam como estímulos capazes de gerar alta retenção, engajamento e desempenho em plataformas digitais.
+
 ## Projeto em construção
 
 Este repositório documenta a construção de um sistema experimental voltado para **análise e engenharia reversa de conteúdos virais** em plataformas digitais.
