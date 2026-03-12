@@ -1,3 +1,14 @@
+# Observação:
+
+O sistema apresentado neste repositório documenta apenas a camada de
+descoberta e análise estrutural de conteúdos.
+
+O projeto completo inclui etapas adicionais de processamento e geração,
+utilizando outras tecnologias para tratamento dos dados extraídos e
+produção experimental de conteúdo a partir dos padrões identificados.
+
+Essas camadas não estão incluídas neste repositório.
+
 # Sistema de Análise de Conteúdo Viral
 
 O sistema busca analisar estruturas de dados invisíveis presentes em conteúdos virais, identificando padrões narrativos, visuais e emocionais que funcionam como estímulos capazes de gerar alta retenção, engajamento e desempenho em plataformas digitais.
