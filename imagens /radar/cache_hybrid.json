@@ -1,0 +1,340 @@
+{
+  "UCw74qYwe43ey9w-kSMH119w": {
+    "ts": 1772740364.9380944,
+    "metrics": {
+      "channel_id": "UCw74qYwe43ey9w-kSMH119w",
+      "pre_score": 5.0,
+      "pre_meta": {
+        "uploads_30d": 0,
+        "days_since_last": 9999.0,
+        "long_ratio": 1.0,
+        "n_seen": 4
+      },
+      "n_valid": 26,
+      "uploads_30d": 0,
+      "uploads_180d": 1,
+      "days_since_last": 87.07,
+      "base_vph30": 20.0,
+      "good_30": 0,
+      "p75_lift_180": 0.002,
+      "winner_rate_180": 0.0,
+      "ok": false,
+      "hot": false,
+      "library": false,
+      "reason": "low_uploads_180,low_winner_rate_180,low_p75_lift_180",
+      "api_used": true
+    }
+  },
+  "UCaU0jItpXHjbRhLOh6-AR5g": {
+    "ts": 1772740364.9380944,
+    "metrics": {
+      "channel_id": "UCaU0jItpXHjbRhLOh6-AR5g",
+      "pre_score": 5.0,
+      "pre_meta": {
+        "uploads_30d": 0,
+        "days_since_last": 9999.0,
+        "long_ratio": 1.0,
+        "n_seen": 60
+      },
+      "n_valid": 60,
+      "uploads_30d": 0,
+      "uploads_180d": 9,
+      "days_since_last": 65.88,
+      "base_vph30": 20.0,
+      "good_30": 0,
+      "p75_lift_180": 1.774,
+      "winner_rate_180": 0.444,
+      "ok": true,
+      "hot": false,
+      "library": true,
+      "reason": "ok",
+      "api_used": true
+    }
+  },
+  "UCwGvxujprD-1yyvIsK3yyyw": {
+    "ts": 1772740364.9380944,
+    "metrics": {
+      "channel_id": "UCwGvxujprD-1yyvIsK3yyyw",
+      "pre_score": 5.0,
+      "pre_meta": {
+        "uploads_30d": 0,
+        "days_since_last": 9999.0,
+        "long_ratio": 1.0,
+        "n_seen": 60
+      },
+      "n_valid": 60,
+      "uploads_30d": 10,
+      "uploads_180d": 32,
+      "days_since_last": 0.93,
+      "base_vph30": 20.0,
+      "good_30": 1,
+      "p75_lift_180": 0.13,
+      "winner_rate_180": 0.031,
+      "ok": false,
+      "hot": false,
+      "library": false,
+      "reason": "low_p75_lift_180",
+      "api_used": true
+    }
+  },
+  "UC2DIPkwWMFOverR4eGmfm1Q": {
+    "ts": 1772740364.9380944,
+    "metrics": {
+      "channel_id": "UC2DIPkwWMFOverR4eGmfm1Q",
+      "pre_score": 5.0,
+      "pre_meta": {
+        "uploads_30d": 0,
+        "days_since_last": 9999.0,
+        "long_ratio": 1.0,
+        "n_seen": 42
+      },
+      "n_valid": 25,
+      "uploads_30d": 0,
+      "uploads_180d": 18,
+      "days_since_last": 51.15,
+      "base_vph30": 20.0,
+      "good_30": 0,
+      "p75_lift_180": 0.037,
+      "winner_rate_180": 0.0,
+      "ok": false,
+      "hot": false,
+      "library": false,
+      "reason": "low_winner_rate_180,low_p75_lift_180",
+      "api_used": true
+    }
+  },
+  "UCtKr0UebKzYbeAl_cLiFq5g": {
+    "ts": 1772740364.9380944,
+    "metrics": {
+      "channel_id": "UCtKr0UebKzYbeAl_cLiFq5g",
+      "pre_score": 5.0,
+      "pre_meta": {
+        "uploads_30d": 0,
+        "days_since_last": 9999.0,
+        "long_ratio": 1.0,
+        "n_seen": 15
+      },
+      "n_valid": 60,
+      "uploads_30d": 23,
+      "uploads_180d": 60,
+      "days_since_last": 0.33,
+      "base_vph30": 20.0,
+      "good_30": 0,
+      "p75_lift_180": 0.22,
+      "winner_rate_180": 0.017,
+      "ok": false,
+      "hot": false,
+      "library": false,
+      "reason": "low_winner_rate_180,low_p75_lift_180",
+      "api_used": true
+    }
+  },
+  "UCxz8fvK9SyAG8OY_v1WsugA": {
+    "ts": 1772740364.9380944,
+    "metrics": {
+      "channel_id": "UCxz8fvK9SyAG8OY_v1WsugA",
+      "pre_score": 5.0,
+      "pre_meta": {
+        "uploads_30d": 0,
+        "days_since_last": 9999.0,
+        "long_ratio": 1.0,
+        "n_seen": 38
+      },
+      "n_valid": 48,
+      "uploads_30d": 1,
+      "uploads_180d": 12,
+      "days_since_last": 20.95,
+      "base_vph30": 20.0,
+      "good_30": 0,
+      "p75_lift_180": 0.58,
+      "winner_rate_180": 0.25,
+      "ok": false,
+      "hot": false,
+      "library": false,
+      "reason": "low_p75_lift_180",
+      "api_used": true
+    }
+  },
+  "UCaSHxZvEnN5IQBmEk59SK4w": {
+    "ts": 1772740364.9380944,
+    "metrics": {
+      "channel_id": "UCaSHxZvEnN5IQBmEk59SK4w",
+      "pre_score": 5.0,
+      "pre_meta": {
+        "uploads_30d": 0,
+        "days_since_last": 9999.0,
+        "long_ratio": 1.0,
+        "n_seen": 60
+      },
+      "n_valid": 60,
+      "uploads_30d": 14,
+      "uploads_180d": 60,
+      "days_since_last": 0.09,
+      "base_vph30": 20.0,
+      "good_30": 5,
+      "p75_lift_180": 0.087,
+      "winner_rate_180": 0.083,
+      "ok": false,
+      "hot": false,
+      "library": false,
+      "reason": "low_p75_lift_180",
+      "api_used": true
+    }
+  },
+  "UC4RVvnLcHnltJNUvvVYchtA": {
+    "ts": 1772740364.9380944,
+    "metrics": {
+      "channel_id": "UC4RVvnLcHnltJNUvvVYchtA",
+      "pre_score": 5.0,
+      "pre_meta": {
+        "uploads_30d": 0,
+        "days_since_last": 9999.0,
+        "long_ratio": 1.0,
+        "n_seen": 20
+      },
+      "n_valid": 52,
+      "uploads_30d": 15,
+      "uploads_180d": 17,
+      "days_since_last": 4.25,
+      "base_vph30": 20.0,
+      "good_30": 1,
+      "p75_lift_180": 0.181,
+      "winner_rate_180": 0.059,
+      "ok": false,
+      "hot": false,
+      "library": false,
+      "reason": "low_p75_lift_180",
+      "api_used": true
+    }
+  },
+  "UCWjQPUqU9mXBdCYbak32JCw": {
+    "ts": 1772740364.9380944,
+    "metrics": {
+      "channel_id": "UCWjQPUqU9mXBdCYbak32JCw",
+      "pre_score": 5.0,
+      "pre_meta": {
+        "uploads_30d": 0,
+        "days_since_last": 9999.0,
+        "long_ratio": 1.0,
+        "n_seen": 60
+      },
+      "n_valid": 60,
+      "uploads_30d": 10,
+      "uploads_180d": 28,
+      "days_since_last": 1.93,
+      "base_vph30": 20.0,
+      "good_30": 3,
+      "p75_lift_180": 0.278,
+      "winner_rate_180": 0.107,
+      "ok": false,
+      "hot": false,
+      "library": false,
+      "reason": "low_p75_lift_180",
+      "api_used": true
+    }
+  },
+  "UCUl4mjmWWK4tRr_WTm560Og": {
+    "ts": 1772740364.9380944,
+    "metrics": {
+      "channel_id": "UCUl4mjmWWK4tRr_WTm560Og",
+      "pre_score": 5.0,
+      "pre_meta": {
+        "uploads_30d": 0,
+        "days_since_last": 9999.0,
+        "long_ratio": 1.0,
+        "n_seen": 60
+      },
+      "n_valid": 60,
+      "uploads_30d": 0,
+      "uploads_180d": 4,
+      "days_since_last": 98.83,
+      "base_vph30": 20.0,
+      "good_30": 0,
+      "p75_lift_180": 0.006,
+      "winner_rate_180": 0.0,
+      "ok": false,
+      "hot": false,
+      "library": false,
+      "reason": "low_winner_rate_180,low_p75_lift_180",
+      "api_used": true
+    }
+  },
+  "UCP9dUG0wfdXMxLjTXUvodAA": {
+    "ts": 1772740364.9380944,
+    "metrics": {
+      "channel_id": "UCP9dUG0wfdXMxLjTXUvodAA",
+      "pre_score": 5.0,
+      "pre_meta": {
+        "uploads_30d": 0,
+        "days_since_last": 9999.0,
+        "long_ratio": 1.0,
+        "n_seen": 33
+      },
+      "n_valid": 33,
+      "uploads_30d": 5,
+      "uploads_180d": 26,
+      "days_since_last": 0.91,
+      "base_vph30": 20.0,
+      "good_30": 1,
+      "p75_lift_180": 0.135,
+      "winner_rate_180": 0.038,
+      "ok": false,
+      "hot": false,
+      "library": false,
+      "reason": "low_p75_lift_180",
+      "api_used": true
+    }
+  },
+  "UCDOe_AmN6fXrzDh4Wov1PZw": {
+    "ts": 1772740364.9380944,
+    "metrics": {
+      "channel_id": "UCDOe_AmN6fXrzDh4Wov1PZw",
+      "pre_score": 5.0,
+      "pre_meta": {
+        "uploads_30d": 0,
+        "days_since_last": 9999.0,
+        "long_ratio": 1.0,
+        "n_seen": 60
+      },
+      "n_valid": 60,
+      "uploads_30d": 6,
+      "uploads_180d": 42,
+      "days_since_last": 1.41,
+      "base_vph30": 20.0,
+      "good_30": 0,
+      "p75_lift_180": 0.051,
+      "winner_rate_180": 0.024,
+      "ok": false,
+      "hot": false,
+      "library": false,
+      "reason": "low_winner_rate_180,low_p75_lift_180",
+      "api_used": true
+    }
+  },
+  "UCz2CZoc5cP2mVkJoBGL2NMw": {
+    "ts": 1772740364.9380944,
+    "metrics": {
+      "channel_id": "UCz2CZoc5cP2mVkJoBGL2NMw",
+      "pre_score": 5.0,
+      "pre_meta": {
+        "uploads_30d": 0,
+        "days_since_last": 9999.0,
+        "long_ratio": 1.0,
+        "n_seen": 60
+      },
+      "n_valid": 60,
+      "uploads_30d": 0,
+      "uploads_180d": 0,
+      "days_since_last": 496.2,
+      "base_vph30": 20.0,
+      "good_30": 0,
+      "p75_lift_180": 0.0,
+      "winner_rate_180": 0.0,
+      "ok": false,
+      "hot": false,
+      "library": false,
+      "reason": "stale,low_uploads_180,low_winner_rate_180,low_p75_lift_180",
+      "api_used": true
+    }
+  }
+}

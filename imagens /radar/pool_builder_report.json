@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-03-05T18:30:48Z",
+  "settings": {
+    "MIN_HITS": 1,
+    "REQUIRE_TERMS": [
+      "shopee",
+      "achadinhos"
+    ],
+    "merge_master": null
+  },
+  "input_jsonl": "C:\\Users\\Admin\\Desktop\\projeto\\1.radar\\runs\\20260305_174803\\01_busca_ampla\\busca_ampla.jsonl",
+  "keywords_count": 1,
+  "items_in_jsonl": 939,
+  "items_pass_title_filter": 72,
+  "discovered_count": 13,
+  "new_added_count": 13,
+  "merged_total": 13,
+  "per_keyword": [
+    {
+      "keyword": "achadinhos da shopee",
+      "canais_filtrados": 72
+    }
+  ],
+  "paths": {
+    "out_dir": "C:\\Users\\Admin\\Desktop\\projeto\\1.radar\\runs\\20260305_174803\\02_gate_relevancia",
+    "discovered": "C:\\Users\\Admin\\Desktop\\projeto\\1.radar\\runs\\20260305_174803\\02_gate_relevancia\\channels_discovered_last_run.txt",
+    "new": "C:\\Users\\Admin\\Desktop\\projeto\\1.radar\\runs\\20260305_174803\\02_gate_relevancia\\channels_new_last_run.txt",
+    "master": "C:\\Users\\Admin\\Desktop\\projeto\\1.radar\\runs\\20260305_174803\\02_gate_relevancia\\channels_master_api.txt",
+    "report": "C:\\Users\\Admin\\Desktop\\projeto\\1.radar\\runs\\20260305_174803\\02_gate_relevancia\\pool_builder_report.json"
+  }
+}
